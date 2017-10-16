@@ -1,2 +1,3 @@
 Hey, I got a new feature
 Bug fixed
+New Bugs found
