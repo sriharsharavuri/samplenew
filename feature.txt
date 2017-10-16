@@ -1,1 +1,2 @@
 Hey, I got a new feature
+Bug fixed
